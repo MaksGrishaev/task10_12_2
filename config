@@ -6,4 +6,4 @@ HOST_NAME=docker-vm.domain.tld
 NGINX_IMAGE="nginx:1.13"
 APACHE_IMAGE="httpd:2.4"
 NGINX_PORT=17080
-NGINX_LOG_DIR=/srv/log/ngin
+NGINX_LOG_DIR=/srv/log/nginx
